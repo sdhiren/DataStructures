@@ -1,0 +1,6 @@
+/Users/dhiren/Projects/DataStructure/DataStructure/bin/Debug/DataStructure.exe
+/Users/dhiren/Projects/DataStructure/DataStructure/bin/Debug/DataStructure.pdb
+/Users/dhiren/Projects/DataStructure/DataStructure/obj/x86/Debug/DataStructure.csproj.CoreCompileInputs.cache
+/Users/dhiren/Projects/DataStructure/DataStructure/obj/x86/Debug/DataStructure.exe
+/Users/dhiren/Projects/DataStructure/DataStructure/obj/x86/Debug/DataStructure.pdb
+/Users/dhiren/Projects/DataStructure/DataStructure/obj/x86/Debug/DataStructure.csprojResolveAssemblyReference.cache
